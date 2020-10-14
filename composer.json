@@ -1,21 +1,21 @@
 {
-    "name": "laravel-enso/countries",
+    "name": "genealogiawebsite/countries",
     "description": "Countries for Laravel Enso",
     "keywords": [
-        "laravel-enso",
+        "genealogiawebsite",
         "countries",
         "manager",
         "enso"
     ],
     "type": "library",
     "require": {
-        "laravel-enso/core": "^6.0",
-        "laravel-enso/dynamic-methods": "^2.0",
-        "laravel-enso/enums": "^2.0",
-        "laravel-enso/helpers": "^2.0",
-        "laravel-enso/migrator": "^2.0",
-        "laravel-enso/rememberable": "^3.0",
-        "laravel-enso/select": "^4.0"
+        "genealogiawebsite/core": "^6.0",
+        "genealogiawebsite/dynamic-methods": "^2.0",
+        "genealogiawebsite/enums": "^2.0",
+        "genealogiawebsite/helpers": "^2.0",
+        "genealogiawebsite/migrator": "^2.0",
+        "genealogiawebsite/rememberable": "^3.0",
+        "genealogiawebsite/select": "^4.0"
     },
     "license": "MIT",
     "authors": [
@@ -27,7 +27,7 @@
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://genealogiawebsite.com",
             "role": "Developer"
         }
     ],
